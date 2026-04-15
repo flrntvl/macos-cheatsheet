@@ -83,6 +83,16 @@ Certains raccourcis peuvent varier selon la version de macOS, l'application util
 | ⌘ + ,           | Ouvrir les préférences      |
 | ⌘ + ⌥ + Esc     | Menu forcer à quitter       |
 
+## VS Code
+
+Raccourcis utiles relevés sur un clavier `Mac français` dans Visual Studio Code.
+
+| Raccourci   | Action |
+| ----------- | ------ |
+| ⌥ + ⇧ + F   | Auto-indenter / formater le document |
+| ⌥ + ⇧ + V   | Ouvrir la prévisualisation Markdown |
+| ⌘ + ⇧ + ;   | Afficher le menu des actions de correction (`Quick Fix`) |
+
 ## Finder
 
 Raccourcis notés pour un clavier `Mac français`. Certains équivalents peuvent être affichés différemment dans d'autres documentations selon la disposition du clavier et la version de macOS.
