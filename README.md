@@ -90,6 +90,7 @@ Raccourcis utiles relevés sur un clavier `Mac français` dans Visual Studio Cod
 | Raccourci   | Action |
 | ----------- | ------ |
 | ⌥ + ⇧ + F   | Auto-indenter / formater le document |
+| ⌃ + G       | Aller à la ligne |
 | ⌥ + ⇧ + V   | Ouvrir la prévisualisation Markdown |
 | ⌘ + ⇧ + ;   | Afficher le menu des actions de correction (`Quick Fix`) |
 
