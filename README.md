@@ -93,6 +93,7 @@ Raccourcis utiles relevés sur un clavier `Mac français` dans Visual Studio Cod
 | ⌃ + G       | Aller à la ligne |
 | ⌥ + ⇧ + V   | Ouvrir la prévisualisation Markdown |
 | ⌘ + ⇧ + ;   | Afficher le menu des actions de correction (`Quick Fix`) |
+| ⌥ + clic    | Replier récursivement toute l'arborescence d'un dossier dans l'explorateur |
 
 ## Finder
 
