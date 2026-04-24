@@ -115,12 +115,13 @@ Raccourcis notés pour un clavier `Mac français`. Certains équivalents peuvent
 
 Raccourcis utiles à garder sous la main :
 
-| Raccourci             | Action                        |
-| --------------------- | ----------------------------- |
-| ⌘ + ⇧ + 3             | Capturer tout l'écran         |
-| ⌘ + ⇧ + 4             | Capturer une zone             |
-| ⌘ + ⇧ + 4 puis Espace | Capturer une fenêtre          |
-| ⌘ + ⇧ + 5             | Outil de capture              |
+| Raccourci              | Action                                           |
+| ---------------------- | ------------------------------------------------ |
+| ⌘ + ⇧ + 3              | Capturer tout l'écran                            |
+| ⌘ + ⇧ + 4              | Capturer une zone                                |
+| ⌘ + ⇧ + 4 puis Espace  | Capturer une fenêtre                             |
+| ⌘ + ⇧ + 5              | Outil de capture                                 |
+| ⌘ + ⇧ + S dans Firefox | Capturer la zone visible ou la page complète     |
 
 Astuce : maintiens **Contrôle** pour copier la capture dans le presse-papiers au lieu de l'enregistrer.
 
